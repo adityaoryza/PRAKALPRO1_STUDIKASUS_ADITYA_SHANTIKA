@@ -1,3 +1,6 @@
+/* Nama : Shantika Adila Putri - 2100018386*/
+/* Nama : Aditya Oryza Mahendra - 2100018401*/
+
 #include <iostream>
 #include <string.h>
 #include <conio.h>
